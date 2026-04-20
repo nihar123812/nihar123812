@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://linkedin.com/in/nihar-kanchamreddy">
+  <a href="https://www.linkedin.com/in/nihar-kanchamreddy-ba66b5253/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -38,8 +38,6 @@
   </a>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=nihar123812&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
 
 <br clear="all" />
 
@@ -67,7 +65,6 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
 <br/><br/>
 
 </td>
@@ -77,7 +74,7 @@
 <td width="50%" align="center">
 <h3>🌐 Web & Full-Stack</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
 <br/><br/>
 
 </td>
@@ -85,7 +82,7 @@
 <td width="50%" align="center">
 <h3>🗄️ Databases & Cloud</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,azure" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" />
 <br/><br/>
 
 </td>
@@ -95,7 +92,7 @@
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,gcp" />
+<img src="https://skillicons.dev/icons?i=git,vscode" />
 <br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" />
@@ -122,7 +119,7 @@
 ## 🚀 Featured Projects
 
 ### 🔬 Hybrid Recommendation System (CBF + Personalized PageRank + NCF)
-> *Research Project · Python · TensorFlow · PyTorch · Scikit-Learn · NetworkX*
+> *Research Project · Python · TensorFlow · PyTorch · Scikit-Learn*
 
 - Built a hybrid recommendation engine combining **Content-Based Filtering (CBF)** and **Personalized PageRank (PPR)** with a tunable alpha blending strategy.
 - Implemented **Neural Collaborative Filtering (NCF)** as a deep learning baseline with embedding layers, MLP, and BatchNormalization for improved generalization.
@@ -154,21 +151,3 @@
 - Analyzed climate data across 6+ variables using regression models, achieving **R² scores above 0.85**.
 - Executed EDA and built prediction models for supermarket data, improving forecasting accuracy by **15%** via feature engineering and supervised ML.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=nihar123812&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=nihar123812&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nihar123812&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<p align="center">
-  <em>"Building machines that learn, and software that scales."</em>
-</p>
